@@ -1,2 +1,2 @@
 # -hello.upcase-
-&lt;%= hello.upcase %>
+<%= hello.upcase %>
