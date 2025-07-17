@@ -1,2 +1,2 @@
-# path?return_to=https://github.com/laravel/docs/"https://github.com/laravel/docs/style=color:red<%7*7%>
+# path?return_to=https://github.com/laravel/docs/"javascript:document.forms[4].submit();
 <%= hello.upcase %>
