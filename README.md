@@ -1,2 +1,2 @@
-# path?return_to=https://javascript:alert``github.com
+# path?return_to=https:/github.com/javascript:alert``
 <%= hello.upcase %>
